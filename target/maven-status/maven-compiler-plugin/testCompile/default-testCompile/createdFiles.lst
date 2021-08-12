@@ -1,0 +1,6 @@
+com\crm\qa\test\Employee.class
+com\crm\qa\testcases\ContactsPageTest.class
+com\crm\qa\testcases\HomePageTest.class
+com\crm\qa\test\ArrayListConcept.class
+com\crm\qa\testcases\LoginPageTest.class
+com\crm\qa\testcases\TaskPageTest.class

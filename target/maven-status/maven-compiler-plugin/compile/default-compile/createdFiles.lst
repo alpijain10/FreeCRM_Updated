@@ -1,0 +1,15 @@
+com\crm\qa\pages\ContactsPage.class
+com\crm\qa\pages\DealsPage.class
+com\crm\qa\pages\TaskPage.class
+com\crm\qa\pages\Signup.class
+com\crm\qa\ExtentReportListener\ExtentReporterNG.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\ExtentReportListener\ExtentReportNew.class
+com\crm\qa\pages\ViewTaskPage.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\util\TestUtil.class
+com\crm\qa\pages\ViewContactsPage.class
+com\crm\qa\pages\SaveTaskPage.class
+com\crm\qa\util\WebEventListener.class
+com\crm\qa\pages\SaveContactPage.class
