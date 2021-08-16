@@ -17,6 +17,7 @@ public class ContactsPageTest extends TestBase {
     LoginPage objloginPage;
     HomePage objhomePage;
     TestUtil objtestUtil;
+    //This test is fine
     ContactsPage objContactPage;
     SaveContactPage objSaveContactPage;
     ViewContactsPage objViewContactPage;
